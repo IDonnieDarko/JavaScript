@@ -1,4 +1,4 @@
-iimport React, { useState } from 'react';
+import React, { useState } from 'react';
 import { StyleSheet, View, Text, TextInput, Button, Image } from 'react-native';
 
 const App: React.FC = () => {
